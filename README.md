@@ -1,6 +1,6 @@
 # Awesome-Electronic-Signature-Software
 
-# Top Electronic Signature Software Ecosystem
+## Top Electronic Signature Software Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Legally Binding E-Signatures, Audit Trails & Self-Hosted Signing Workflows*  
