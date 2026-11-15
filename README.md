@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Electronic-Signature-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Electronic-Signature-Software?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Electronic-Signature-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Electronic-Signature-Software?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Electronic-Signature-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Electronic-Signature-Software?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Electronic-Signature-Software/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Electronic-Signature-Software?style=flat-square&color=blue" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Electronic-Signature-Software/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Electronic-Signature-Software?style=flat-square&color=green" alt="License" /></a>
@@ -66,13 +66,13 @@ The global electronic signature software market is estimated at approximately **
 
 ## 🔓 Open-Source Software & GitHub Projects
 
-All open-source repositories below are sorted in **descending order by GitHub star count**. Each star badge dynamically reflects current stargazer metrics and links directly to the repository's stargazers page.
+All open-source repositories below are sorted in **descending order by GitHub Stars_Count**. Each Stars_Badge dynamically reflects current stargazer metrics and links directly to the repository's stargazers page.
 
 ### Full-Stack E-Signature Platforms
 
 Self-hosted, full-featured web applications offering end-user UIs, form builders, and envelope dispatch workflows.
 
-| Project | Star Badge | Stack / License | Key Features & Highlights |
+| Project | Stars_Badge | Stack / License | Key Features & Highlights |
 |:--------|:----------:|:---------------:|:--------------------------|
 | **[DocuSeal](https://github.com/docusealco/docuseal)** | [![Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers) | Ruby on Rails + PostgreSQL / AGPL-3.0 | **Top open-source DocuSign alternative.** Free Community Edition features **unlimited envelopes and seats**, WYSIWYG PDF form builder with 12 field types, automated email notifications, AI form field detection, and tamper-evident audit certificates. Docker-ready. |
 | **[Documenso](https://github.com/documenso/documenso)** | [![Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) | TypeScript + Next.js + PostgreSQL / AGPL-3.0 | **The "Stripe for Signatures" modern TypeScript signing suite.** Advanced multi-party signing order, **WebAuthn / passkey signing authentication**, SHA-256 hash audit log, cryptographic PDF signing with RFC 3161 timestamping authority, full REST API, and webhooks. |
@@ -83,7 +83,7 @@ Self-hosted, full-featured web applications offering end-user UIs, form builders
 
 Specialized libraries and low-level servers for programmatic PDF signing, PKI token integration, and standard AdES/eIDAS compliance.
 
-| Project | Star Badge | Stack / License | Key Features & Highlights |
+| Project | Stars_Badge | Stack / License | Key Features & Highlights |
 |:--------|:----------:|:---------------:|:--------------------------|
 | **[DSS (Digital Signature Service)](https://github.com/esig/dss)** | [![Stars](https://img.shields.io/github/stars/esig/dss?style=social&color=white)](https://github.com/esig/dss/stargazers) | Java / LGPL-2.1 | **Official European Commission framework for eIDAS-compliant signatures.** Industry standard for creation, extension, and validation of Advanced and Qualified Electronic Signatures (CAdES, XAdES, PAdES, JAdES, and ASiC containers). |
 | **[open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign)** | [![Stars](https://img.shields.io/github/stars/open-pdf-sign/open-pdf-sign?style=social&color=white)](https://github.com/open-pdf-sign/open-pdf-sign/stargazers) | Java / Apache-2.0 | **High-performance CLI and library for automated PDF digital signing.** Supports PKCS#12 keystores, HSMs, smart cards, timestamp authorities (TSA), and customizable visible signature stamps and QR verification codes. |
@@ -103,7 +103,7 @@ We welcome community contributions, corrections, and additions!
 3. 📝 **Add or edit entries** in `README.md` following the existing format:
    - Include project name, official URL or repo link.
    - For SaaS tools: include transparent starting tier pricing, free trial / plan quotas, and market capitalization or revenue.
-   - For open-source tools: include star badges linking to `/stargazers`, stack, license, and technical features.
+   - For open-source tools: include Stars_Badges linking to `/stargazers`, stack, license, and technical features.
 4. 🚀 **Submit a Pull Request** with a descriptive summary of your changes.
 
 ---
