@@ -66,7 +66,7 @@ The global electronic signature software market is estimated at approximately **
 
 ## 🔓 Open-Source Software & GitHub Projects
 
-All open-source repositories below are sorted in **descending order by GitHub Stars_Count**. Each Stars_Badge dynamically reflects current stargazer metrics and links directly to the repository's stargazers page.
+All open-source repositories below are sorted in **descending order by GitHub_Stars_Count**. Each Stars_Badge dynamically reflects current stargazer metrics and links directly to the repository's stargazers page.
 
 ### Full-Stack E-Signature Platforms
 
